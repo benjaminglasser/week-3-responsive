@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/week-3-responsive/static/css/main.99803f06.css",
+    "main.js": "/week-3-responsive/static/js/main.6b39e97d.js",
+    "static/js/787.633816a4.chunk.js": "/week-3-responsive/static/js/787.633816a4.chunk.js",
+    "static/media/Manusquared-Regular.otf": "/week-3-responsive/static/media/Manusquared-Regular.749f051294ff57efb9d4.otf",
+    "index.html": "/week-3-responsive/index.html",
+    "main.99803f06.css.map": "/week-3-responsive/static/css/main.99803f06.css.map",
+    "main.6b39e97d.js.map": "/week-3-responsive/static/js/main.6b39e97d.js.map",
+    "787.633816a4.chunk.js.map": "/week-3-responsive/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99803f06.css",
+    "static/js/main.6b39e97d.js"
+  ]
+}
